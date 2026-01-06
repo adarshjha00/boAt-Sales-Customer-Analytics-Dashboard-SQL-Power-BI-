@@ -8,12 +8,13 @@ The objective of this project is to analyze historical transactional data to ide
 To analyze sales and customer data for 2024 & 2025 using SQL and Power BI, perform data cleaning and transformations, and build interactive dashboards that deliver actionable insights for business stakeholders.
 
 ## 🗄️ SQL Data Cleaning & Preparation
-- **Reviewed and validated** raw tables before analysis
-- **Corrected data types** for dates, numeric, and categorical fields
-- **Converted all date columns** into proper DATE format
-- **Removed duplicate** records to ensure data accuracy
-- **Standardized categorical values** for consistency
-- **Created clean, analysis-ready tables for Power BI**
+- Reviewed and validated raw tables before analysis  
+- Corrected data types for dates, numeric, and categorical fields  
+- Converted all date columns into proper `DATE` format  
+- Removed duplicate records to ensure data accuracy  
+- Standardized categorical values for consistency  
+- Created clean, analysis-ready tables for Power BI
+- 
 
 ---
 
