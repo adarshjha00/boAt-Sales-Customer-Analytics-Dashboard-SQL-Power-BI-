@@ -5,10 +5,7 @@ boAt aims to gain a holistic understanding of its sales performance, customer be
 The objective of this project is to analyze historical transactional data to identify revenue drivers, customer retention patterns, operational bottlenecks, and areas of improvement to support data-driven business decisions.
 
 ## 🔍 Project Overview
-
-This project presents a **comprehensive business analytics dashboard for boAt**, built using **SQL and Power BI**, focusing on sales performance, customer behavior, fulfillment efficiency, and customer sentiment analysis.
-
-The dashboard analyzes data for **2024 & 2025** and converts raw transactional data into **actionable business insights** to support strategic decision-making.
+To analyze sales and customer data for 2024 & 2025 using SQL and Power BI, perform data cleaning and transformations, and build interactive dashboards that deliver actionable insights for business stakeholders.
 
 ---
 
