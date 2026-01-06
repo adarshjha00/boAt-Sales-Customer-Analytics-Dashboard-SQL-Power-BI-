@@ -14,7 +14,6 @@ To analyze sales and customer data for 2024 & 2025 using SQL and Power BI, perfo
 - Removed duplicate records to ensure data accuracy  
 - Standardized categorical values for consistency  
 - Created clean, analysis-ready tables for Power BI
-- 
 
 ---
 
